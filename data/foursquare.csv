@@ -1,0 +1,29 @@
+;id;name;address;rating;price;phone;distance;latitude;longitude;source;city;station;station_latitude;station_longitude;station_number_of_bikes
+1;4b5487f4f964a520cabe27e3;Barley's Taproom & Piz;25 W Washington St (Btw S Main & S Laurens St.), Greenville, SC 29601;8.0;1.0;(864) 232-3706;124;34.850802;-82.399831;Foursquare;Greenville, SC;Transit Center;34.85028;-82.40107;7
+27;4b76d4faf964a52099622ee3;Brick Street Cafe;315 Augusta St, Greenville, SC 29601;8.4;2.0;(864) 421-0111;674;34.840406;-82.406261;Foursquare;Greenville, SC;NEXT Innovation Center;34.84043;-82.39883;5
+21;4b6c5b63f964a5204f332ce3;Chicora Alley;608 S Main St, Greenville, SC 29601;8.3;2.0;(864) 232-4100;617;34.845138;-82.402374;Foursquare;Greenville, SC;NEXT Innovation Center;34.84043;-82.39883;5
+25;540ae735498ed28daaa5af37;Eggs Up Grill;31 Augusta St, Greenville, SC 29601;8.3;2.0;(864) 520-2005;662;34.843497;-82.404685;Foursquare;Greenville, SC;NEXT Innovation Center;34.84043;-82.39883;5
+41;50575585e4b01ef823440c65;Grill Marks - Main St. Greenville;209 S Main St, Greenville, SC 29601;8.2;2.0;(864) 233-5825;47;34.848172;-82.400019;Foursquare;Greenville, SC;City Hall;34.84841;-82.40027;3
+85;569e8e21498e0c3b024d94c4;Halls Chophouse Greenville;550 S Main St, Greenville, SC 29601;8.8;2.0;(864) 335-4200;160;34.845661;-82.402022;Foursquare;Greenville, SC;River Walk;34.84722;-82.40256;2
+29;4b3b8e2ef964a520b97525e3;Larkins On The River;318 S Main St (Downtown), Greenville, SC 29601;8.6;4.0;(864) 467-9777;769;34.846894;-82.401523;Foursquare;Greenville, SC;NEXT Innovation Center;34.84043;-82.39883;5
+31;5a0f285e916bc10c34507e9a;Maple Street Biscuit Company;18 E North St, Greenville, SC 29601;7.9;1.0;(864) 520-8724;208;34.852047;-82.397509;Foursquare;Greenville, SC;College & Main;34.85399;-82.39797;6
+58;4cd984db2a87a143aa27b309;Mike & Jeff's BBQ Diner;2401 Old Buncombe Rd, Greenville, SC 29609;8.7;2.0;(864) 271-5225;981;34.876639;-82.415539;Foursquare;Greenville, SC;Swamp Rabbit Cafe;34.86926;-82.42157;5
+59;4bc7bca414d79521260c68e9;Purple International Bistro & Sushi;933 S Main St, Greenville, SC 29601;8.3;2.0;(864) 232-3255;55;34.843098;-82.408507;Foursquare;Greenville, SC;Fluor Field;34.8429;-82.40897;4
+78;4b637d8df964a520ea7d2ae3;Rick Erwin's West End Grille;648 S Main St (River Street), Greenville, SC 29601;8.9;3.0;(864) 232-8999;272;34.844777;-82.403651;Foursquare;Greenville, SC;Japanese Dogwood;34.84618;-82.4013;0
+82;5762d745498e1dbf2f85ca2c;Ruth's Chris Steak House;250 Riverplace, Greenville, SC 29601;8.1;4.0;(864) 242-2000;71;34.84764;-82.403248;Foursquare;Greenville, SC;River Walk;34.84722;-82.40256;2
+9;4bc6603cd35d9c74f4b2e23a;Sassafras Southern Bistro;103 N Main St, Greenville, SC 29601;8.8;3.0;(864) 235-5670;271;34.851841;-82.39887;Foursquare;Greenville, SC;Transit Center;34.85028;-82.40107;7
+20;570c1d3d498e67d615f08f41;Sidewall Pizza;99 Cleveland St, Greenville, SC 29601;8.9;1.0;(864) 558-0235;201;34.840115;-82.396605;Foursquare;Greenville, SC;NEXT Innovation Center;34.84043;-82.39883;5
+64;4b5b27b7f964a5201ae728e3;Smoke On the Water;1 Augusta St (at S Main St), Greenville, SC 29601;8.6;2.0;(864) 232-9091;456;34.844093;-82.404246;Foursquare;Greenville, SC;Fluor Field;34.8429;-82.40897;4
+40;52dbe8a7498e53fc4d7e1a7d;Soby's;207 S Main St, Greenville, SC 29601;8.3;3.0;(864) 232-7007;38;34.848153;-82.399716;Foursquare;Greenville, SC;City Hall;34.84841;-82.40027;3
+4;5571cb8f498e6be26015c286;Southern Pressed Juicery;2 W Washington St, Greenville, SC 29601;8.2;2.0;(864) 729-8626;190;34.851124;-82.399345;Foursquare;Greenville, SC;Transit Center;34.85028;-82.40107;7
+52;58a7a44b9ab6634221689f70;Stone Pizza Company;500 E Park Ave (Stone Avenue), Greenville, SC 29601;6.9;1.0;(864) 609-4490;886;34.855038;-82.38557;Foursquare;Greenville, SC;Greenville Zoo;34.84717;-82.38581;2
+97;514af05ce4b07cc40e0b24d7;Sully's Steamers;6 E Washington St (Main St.), Greenville, SC 29601;8.4;1.0;(864) 509-6061;249;34.850406;-82.398651;Foursquare;Greenville, SC;Reedy Rides 50SR;34.85056;-82.40158;0
+30;4baa9de6f964a520007a3ae3;Sushi Go;247 N Main St, Greenville, SC 29601;8.0;2.0;(864) 631-1145;25;34.853838;-82.397946;Foursquare;Greenville, SC;College & Main;34.85399;-82.39797;6
+37;4b625545f964a520d7422ae3;Sushi Murasaki;2 S Main St, Greenville, SC 29601;7.8;2.0;(864) 271-2452;372;34.850694;-82.399214;Foursquare;Greenville, SC;College & Main;34.85399;-82.39797;6
+53;4e653467d164ddd5e6f277b6;Swamp Rabbit Cafe and Grocery;205 Cedar Lane Rd, Greenville, SC 29611;9.4;2.0;(864) 255-3385;77;34.869832;-82.421934;Foursquare;Greenville, SC;Swamp Rabbit Cafe;34.86926;-82.42157;5
+91;4b8c59d2f964a52034cc32e3;The Cazbah;16 W McBee Ave, Greenville, SC 29601;8.0;3.0;(864) 241-9909;380;34.850065;-82.400117;Foursquare;Greenville, SC;River Walk;34.84722;-82.40256;2
+63;4dc854cbd22dad7970ca7183;The Velo Fellow;1 Augusta St, Greenville, SC 29601;8.2;2.0;(864) 242-9296;440;34.843852;-82.404318;Foursquare;Greenville, SC;Fluor Field;34.8429;-82.40897;4
+8;4b5b9075f964a520780729e3;Trio - A Brick Oven Cafe;22 N Main St (at Coffee St.), Greenville, SC 29601;8.2;2.0;(864) 467-1000;265;34.851358;-82.398431;Foursquare;Greenville, SC;Transit Center;34.85028;-82.40107;7
+32;4b5ba8e9f964a520460e29e3;Tsunami;106 E North St, Greenville, SC 29601;8.2;2.0;(864) 467-1055;238;34.852007;-82.397132;Foursquare;Greenville, SC;College & Main;34.85399;-82.39797;6
+35;51bc9521498e104ada4db547;Tupelo Honey Cafe;1 N Main St, Greenville, SC 29601;8.3;2.0;(864) 451-6200;341;34.85109;-82.399225;Foursquare;Greenville, SC;College & Main;34.85399;-82.39797;6
+54;594bf1ae249623140392da3b;White Duck Taco Shop;1320 Hampton Avenue Ext, Greenville, SC 29601;8.1;1.0;(864) 609-4150;632;34.865909;-82.415767;Foursquare;Greenville, SC;Swamp Rabbit Cafe;34.86926;-82.42157;5
